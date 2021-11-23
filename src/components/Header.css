@@ -1,0 +1,133 @@
+body{
+    width: 100.75%;
+}
+
+.headerlogo{
+    
+    position: absolute;
+    top: 255px;
+    left: 655px;
+}
+
+#headerlogo{
+    width: 230px;
+}
+
+#line{
+    position: absolute;
+    top: 323px;
+    left: 655px;
+    color: white;
+    font-weight: 700;
+    font-size: large;
+}
+
+#new{
+    position: absolute;
+    top: 350px;
+    left: 678px;
+    color: white;
+    font-weight: 500;
+    font-size: medium;
+    
+}
+
+.searchform{
+    position: absolute;
+    top: 377px;
+    left: 650px;
+    width: 250px;
+    height: 80px;
+    background-color: white;
+    border-radius: 15px;
+    border-color: white;
+    border-width: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#searchcontrol{
+    width: 100%;
+    height: 30px;
+    padding-top: 5px;
+    background-color: white;
+
+    
+}
+
+#searchbutton{
+    position: absolute;
+    top: 5px;
+    left: 195px;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: darkslategray;
+}
+
+#headericons{
+    position: absolute;
+    top: 420px;
+    left: 720px;
+    text-decoration: none;
+    /* text-align: center; */
+    color: rgb(196, 196, 196);
+}
+
+#facebookh{
+    cursor: pointer;
+}
+
+#instagramh{
+    cursor: pointer;
+}
+
+#twitterh{
+    cursor: pointer;
+}
+
+#snapchath{
+    cursor: pointer;
+}
+
+#linkedinh{
+    cursor: pointer;
+}
+
+#youtubeh{
+    cursor: pointer;
+}
+
+.learning{
+    position: absolute;
+    top: 70px;
+    right: 3px;
+    
+}
+
+#elearninglogo{
+    width: 80px;
+}
+
+.dropbutton{
+    position: absolute;
+    top: 25px;
+    right: 10px;
+}
+
+#drop{
+    border-radius: 5px;
+    width: 50px;
+    height: 40px;
+    font-size: large;
+    cursor: pointer;
+    color: rgb(0, 0, 43);
+    background-color: white;
+    border-color: transparent;
+}
+
