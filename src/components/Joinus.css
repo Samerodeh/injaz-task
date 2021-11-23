@@ -1,0 +1,191 @@
+.joinus{
+    position: absolute;
+    top: 3400px;
+}
+
+#Volunteers{
+    position: absolute;
+    top: 3655px;
+    left: 645px;
+    width: 175px;
+    height: 50px;
+    padding: 7px;
+    color: white;
+    border-radius: 0px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#we{
+    position: absolute;
+    top: 3732px;
+    left: 660px;
+    color: white;
+    font-size: x-small;
+}
+
+#Plus1{
+    position: absolute;
+    top: 3815px;
+    left: 705px;
+}
+
+#Plus1{
+    border: none;
+    border-color: transparent;
+    color: white;
+    font-size: medium;
+} 
+
+#Plus1:hover{
+    background-color: transparent;
+    color: white;
+    font-size: medium;
+}
+
+#plus1{
+    color: white;
+    font-size: xx-large;
+}
+
+#Mentors{
+    position: absolute;
+    top: 3655px;
+    left: 887px;
+    width: 175px;
+    height: 50px;
+    padding: 7px;
+    color: white;
+    border-radius: 0px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#to1{
+    position: absolute;
+    top: 3732px;
+    left: 925px;
+    color: white;
+    font-size: x-small;
+    font-weight: 600;
+}
+
+#Plus2{
+    position: absolute;
+    top: 3815px;
+    left: 945px;
+}
+
+#Plus2{
+    border: none;
+    border-color: transparent;
+    color: white;
+    font-size: medium;
+} 
+
+#Plus2:hover{
+    background-color: transparent;
+    color: white;
+    font-size: medium;
+}
+
+#plus2{
+    color: white;
+    font-size: xx-large;
+}
+
+#Partners{
+    position: absolute;
+    top: 3655px;
+    left: 1130px;
+    width: 175px;
+    height: 50px;
+    padding: 7px;
+    color: white;
+    border-radius: 0px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#to2{
+    position: absolute;
+    top: 3732px;
+    left: 1168px;
+    color: white;
+    font-size: x-small;
+    font-weight: 600;
+}
+
+#Plus3{
+    position: absolute;
+    top: 3815px;
+    left: 1190px;
+}
+
+#Plus3{
+    border: none;
+    border-color: transparent;
+    color: white;
+    font-size: medium;
+} 
+
+#Plus3:hover{
+    background-color: transparent;
+    color: white;
+    font-size: medium;
+}
+
+#plus3{
+    color: white;
+    font-size: xx-large;
+}
+
+#Board{
+    position: absolute;
+    top: 3655px;
+    left: 1375px;
+    width: 175px;
+    height: 50px;
+    padding: 7px;
+    color: white;
+    border-radius: 0px;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;   
+}
+
+#to3{
+    position: absolute;
+    top: 3732px;
+    left: 1413px;
+    color: white;
+    font-size: x-small;
+    font-weight: 600;
+}
+
+#Plus4{
+    position: absolute;
+    top: 3815px;
+    left: 1437px;
+}
+
+#Plus4{
+    border: none;
+    border-color: transparent;
+    color: white;
+    font-size: medium;
+} 
+
+#Plus4:hover{
+    background-color: transparent;
+    color: white;
+    font-size: medium;
+}
+
+#plus4{
+    color: white;
+    font-size: xx-large;
+}

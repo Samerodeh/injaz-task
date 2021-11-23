@@ -1,0 +1,89 @@
+.logomission{
+    position: absolute;
+    left: 675px;
+}
+
+#missionlogo{
+
+    width: 175px;
+}
+
+#ourmission{
+    position: absolute;
+    top: 870px;
+    left: 675px;
+    font-size: xx-large;
+    font-weight:normal;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#to{
+    position: absolute;
+    top: 915px;
+    left: 415px;
+    color: midnightblue;
+    font-size: larger;
+    font-weight: 400;
+}
+
+.educationpic{
+    position: absolute;
+    top: 1000px;
+    left: 450px;
+}
+
+/* .education{
+   
+} */
+
+#redarrow{
+    position: absolute;
+    left: 85px;
+    border: none;
+    border-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+}
+
+#redarrow:hover{
+    background-color: white;
+    color: midnightblue;
+    font-size: medium;
+}
+
+#leftarerow{
+    color: rgb(155, 2, 2);
+    font-size: xx-large;
+}
+
+.startuppic{
+    position: absolute;
+    top: 1022px;
+    left: 800px;
+}
+
+#yellowarrow{
+    position: absolute;
+    left: 55px;
+    border: none;
+    border-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+} 
+
+#yellowarrow:hover{
+    background-color: white;
+    color: midnightblue;
+    font-size: medium;
+}
+
+#rightarrow{
+    color: rgb(214, 214, 1);
+    font-size: xx-large;
+}
+
+
+
+
+

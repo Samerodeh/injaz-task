@@ -1,0 +1,100 @@
+.corebackground{
+    position: absolute;
+    top: 1942px;
+}
+
+#values{
+    position: absolute;
+    top: 1980px;
+    left: 475px;
+}
+
+#conviction{
+    position: absolute;
+    top: 2050px;
+    left: 305px;
+    color: midnightblue;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.educationdev{
+    position: absolute;
+    top: 2155px;
+    left: 370px;
+}
+
+#dev{
+    width: 200px;
+}
+
+#pEducation{
+    position: absolute;
+    top: 2220px;
+    left: 415px;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+}
+
+.Nurturingpic{
+    position: absolute;
+    top: 2155px;
+    left: 670px;
+}
+
+#Nurturing{
+    width: 200px;
+}
+
+#pNurturing{
+    position: absolute;
+    top: 2215px;
+    left: 707px;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+}
+
+.Promotingpic{
+    position: absolute;
+    top: 2155px;
+    left: 975px;
+}
+
+#Promoting{
+    width: 200px;
+}
+
+#pPromoting{
+    position: absolute;
+    top: 2220px;
+    left: 1020px;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+}
+
+#learnmore2{
+    position: absolute;
+    top: 2410px;
+    left: 720px;
+}
+
+#learnmore2{
+    border: none;
+    border-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+} 
+
+#learnmore2:hover{
+    background-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+}
+
+#arrow1{
+    color: rgb(155, 2, 2);
+    font-size: xx-large;
+}

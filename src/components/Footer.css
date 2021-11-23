@@ -1,5 +1,321 @@
-#flogo{
-    width: 100px;
+.footerbackground{
     position: absolute;
-    bottom: 0p
+    top: 5620px;
+}
+
+.footerlogo{
+    position: absolute;
+    top: 5650px;
+    left: 150px;
+}
+
+#footerlogopic{
+    width: 200px;
+}
+
+#aboutus{
+    position: absolute;
+    top: 5655px;
+    left: 400px;
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+#overview{
+    position: absolute;
+    top: 5700px;
+    left: 395px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#mission{
+    position: absolute;
+    top: 5735px;
+    left: 395px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#letter{
+    position: absolute;
+    top: 5770px;
+    left: 395px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#trustees{
+    position: absolute;
+    top: 5805px;
+    left: 395px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#directors{
+    position: absolute;
+    top: 5840px;
+    left: 395px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#management{
+    position: absolute;
+    top: 5875px;
+    left: 395px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#careers{
+    position: absolute;
+    top: 5910px;
+    left: 395px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#contactus{
+    position: absolute;
+    top: 5945px;
+    left: 395px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#impact{
+    position: absolute;
+    top: 5655px;
+    left: 610px;
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+#model{
+    position: absolute;
+    top: 5655px;
+    left: 900px;
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+#cumulative{
+    position: absolute;
+    top: 5700px;
+    left: 890px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#practical{
+    position: absolute;
+    top: 5735px;
+    left: 890px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#holistic{
+    position: absolute;
+    top: 5770px;
+    left: 890px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#ppp{
+    position: absolute;
+    top: 5805px;
+    left: 890px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#social{
+    position: absolute;
+    top: 5840px;
+    left: 890px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#partners{
+    position: absolute;
+    top: 5655px;
+    left: 1120px;
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+#trustees1{
+    position: absolute;
+    top: 5700px;
+    left: 1112px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#partners1{
+    position: absolute;
+    top: 5735px;
+    left: 1112px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#volunteers{
+    position: absolute;
+    top: 5770px;
+    left: 1112px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#media{
+    position: absolute;
+    top: 5655px;
+    left: 1330px;
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+#news{
+    position: absolute;
+    top: 5700px;
+    left: 1323px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+
+}
+
+#events{
+    position: absolute;
+    top: 5735px;
+    left: 1323px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    border: none;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+#footericons{
+    position: absolute;
+    top: 6120px;
+    left: 600px;
+    color: white;
+}
+
+#facebookf{
+    cursor: pointer;
+    font-size: xx-large;
+}
+
+#instagramf{
+    cursor: pointer;
+    font-size: xx-large;
+}
+
+#twitterf{
+    cursor: pointer;
+    font-size: xx-large;
+}
+
+#snapchatf{
+    cursor: pointer;
+    font-size: xx-large;
+}
+
+#linkedinf{
+    cursor: pointer;
+    font-size: xx-large;
+}
+
+#youtubef{
+    cursor: pointer;
+    font-size: xx-large;
+}
+
+#copyrights{
+    position: absolute;
+    top: 6160px;
+    left: 682px;
+    color: white;
+    font-size: small;
 }

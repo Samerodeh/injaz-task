@@ -1,0 +1,201 @@
+.formbackground{
+    position: absolute;
+    top: 4758px;
+}
+
+#CONTACT{
+    position: absolute;
+    top: 5065px;
+    left: 830px;
+    color: midnightblue;
+    font-size: xx-large;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.locationicon{
+    position: absolute;
+    top: 5130px;
+    left: 825px;
+}
+
+#address{
+    position: absolute;
+    top: 5133px;
+    left: 910px;
+    color: #9babbc;
+    font-size: larger;
+    font-weight: 600;
+}
+
+#makkah{
+    position: absolute;
+    top: 5155px;
+    left: 910px;
+    color: midnightblue;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.telephoneicon{
+    position: absolute;
+    top: 5230px;
+    left: 825px;
+}
+
+#telephone{
+    position: absolute;
+    top: 5237px;
+    left: 910px;
+    color: #9babbc;
+    font-size: larger;
+    font-weight: 600;
+}
+
+#numbers{
+    position: absolute;
+    top: 5263px;
+    left: 910px;
+    color: midnightblue;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.emailicon{
+    position: absolute;
+    top: 5330px;
+    left: 825px;
+}
+
+#email{
+    position: absolute;
+    top: 5335px;
+    left: 910px;
+    color: #9babbc;
+    font-size: larger;
+    font-weight: 600;
+}
+
+#mail{
+    position: absolute;
+    top: 5355px;
+    left: 910px;
+    color: midnightblue;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.boxicon{
+    position: absolute;
+    top: 5430px;
+    left: 825px;
+}
+
+#pobox{
+    position: absolute;
+    top: 5435px;
+    left: 910px;
+    color: #9babbc;
+    font-size: larger;
+    font-weight: 600;
+}
+
+#amman{
+    position: absolute;
+    top: 5460px;
+    left: 910px;
+    color: midnightblue;
+    font-weight: 500;
+    font-size: larger;
+}
+
+.contactform{
+    position: absolute;
+    top: 5060px;
+    left: 200px;
+    width: 550px;
+    height: 450px;
+    border-radius: 25px;
+    border-color: transparent;
+    background-color: white;
+}
+
+#h4conatctform{
+    text-align: center;
+    color: midnightblue;
+    font-size: larger;
+    font-weight: 600;
+    padding-top: 25px;
+}
+
+#name{
+    width: 75%;
+    height: 50px;
+    margin-left: 55px;
+    border-radius: 0px;
+    color: #a5abc0;
+    border-style: none;
+    background-color: #f4f5f7;
+    font-size: small;
+}
+
+#emailaddress{
+    width: 32%;
+    height: 50px;
+    margin-left: 55px;
+    border-radius: 0px;
+    color: #a5abc0;
+    border-style: none;
+    background-color: #f4f5f7;
+    font-size: small;
+}
+
+#phonenumber{
+    position: absolute;
+    top: 170px;
+    left: 290px;
+    width: 32%;
+    height: 50px;
+    /* float: right; */
+    /* margin-right: 85px; */
+    border-radius: 0px;
+    color: #a5abc0;
+    border-style: none;
+    background-color: #f4f5f7;
+    font-size: small;
+}
+
+#message{
+    position: absolute;
+    top: 260px;
+    width: 75%;
+    height: 100px;
+    margin-left: 55px;
+    border-radius: 0px;
+    color: #a5abc0;
+    border-style: none;
+    background-color: #f4f5f7;
+    font-size: small;
+}
+
+#formbutton{
+    position: absolute;
+    top: 390px;
+    left: 200px;
+    border: none;
+    border-color: transparent;
+    color: #c72431;
+    font-size: medium;
+    background-color: transparent;
+}
+
+#formbutton:hover{
+    background-color: transparent;
+    color: #c72431;
+    font-size: medium;
+}
+
+#arrow5{
+    color: #c72431;
+    font-size: xx-large;
+}

@@ -1,0 +1,86 @@
+.mediabackground{
+    position: absolute;
+    top: 4038px;
+}
+
+.medialogo{
+    position: absolute;
+    top: 4128px;
+    left: 120px;
+}
+
+#MEDIA{
+    position: absolute;
+    top: 4550px;
+    left: 190px;
+    color: midnightblue;
+    font-size: xx-large;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#learnmore4{
+    position: absolute;
+    top: 4590px;
+    left: 285px;
+}
+
+#learnmore4{
+    border: none;
+    border-color: transparent;
+    color: rgb(155, 2, 2);
+    font-size: medium;
+} 
+
+#learnmore4:hover{
+    background-color: transparent;
+    color: rgb(155, 2, 2);
+    font-size: medium;
+}
+
+#arrow4{
+    color: rgb(155, 2, 2);
+    font-size: xx-large;
+}
+
+.media1{
+    position: absolute;
+    top: 4155px;
+    left: 586px;
+}
+
+#joint{
+    position: absolute;
+    top: 4550px;
+    left: 595px;
+    color: midnightblue;
+    font-size: small;
+}
+
+.media2{
+    position: absolute;
+    top: 4155px;
+    left: 887px;
+}
+
+#mr{
+    position: absolute;
+    top: 4550px;
+    left: 902px;
+    color: midnightblue;
+    font-size: small;
+}
+
+.media3{
+    position: absolute;
+    top: 4155px;
+    left: 1180px;
+}
+
+#declare{
+    position: absolute;
+    top: 4540px;
+    left: 1187px;
+    color: midnightblue;
+    font-size: small;
+}

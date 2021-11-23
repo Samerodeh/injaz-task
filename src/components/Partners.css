@@ -1,0 +1,339 @@
+.partnersbackground{
+    position: absolute;
+    top: 2513px;
+}
+
+#hpartners{
+    position: absolute;
+    top: 2600px;
+    left: 710px;
+    font-size: xx-large;
+    font-style:initial;
+    font-weight: 500;
+    
+}
+
+.tajpic{
+    position: absolute;
+    top: 2575px;
+    left: 837px;
+}
+
+#taj{
+    width: 60px;
+}
+
+#network{
+    position: absolute;
+    top: 2650px;
+    left: 330px;
+    color: midnightblue;
+    font-size: x-large;
+}
+
+.bankofjordan{
+    position: absolute;
+    top: 2790px;
+    left: 120px;
+    cursor: pointer;
+}
+
+.itehadbank{
+    position: absolute;
+    top: 2790px;
+    left: 380px;
+    cursor: pointer;
+}
+
+.ylogo{
+    position: absolute;
+    top: 2790px;
+    left: 560px;
+    cursor: pointer;
+}
+
+.aramex{
+    position: absolute;
+    top: 2790px;
+    left: 750px;
+    cursor: pointer;
+}
+
+.aces{
+    position: absolute;
+    top: 2790px;
+    left: 950px;
+    cursor: pointer;
+}
+
+.arabbank{
+    position: absolute;
+    top: 2790px;
+    left: 1145px;
+    cursor: pointer;
+}
+
+.kawar{
+    position: absolute;
+    top: 2790px;
+    left: 1330px;
+    cursor: pointer;
+}
+
+.miqdadi{
+    position: absolute;
+    top: 2900px;
+    left: 140px;
+    cursor: pointer;
+}
+
+.islamicarabbank{
+    position: absolute;
+    top: 2900px;
+    left: 373px;
+    cursor: pointer;
+}
+
+.jlogo{
+    position: absolute;
+    top: 2898px;
+    left: 560px;
+    cursor: pointer;
+}
+
+.iskanbank{
+    position: absolute;
+    top: 2910px;
+    left: 757px;
+    cursor: pointer;
+}
+
+.haya{
+    position: absolute;
+    top: 2905px;
+    left: 957px;
+    cursor: pointer;
+}
+
+.solidrity{
+    position: absolute;
+    top: 2900px;
+    left: 1145px;
+    cursor: pointer;
+}
+
+.eylogo{
+    position: absolute;
+    top: 2892px;
+    left: 1330px;
+    cursor: pointer;
+}
+
+.toyota{
+    position: absolute;
+    top: 3000px;
+    left: 140px;
+    cursor: pointer;
+}
+
+.cairoammanbank{
+    position: absolute;
+    top: 3000px;
+    left: 373px;
+    cursor: pointer;
+}
+
+.nathealth{
+    position: absolute;
+    top: 2997px;
+    left: 560px;
+    cursor: pointer;
+}
+
+.metlife{
+    position: absolute;
+    top: 3010px;
+    left: 757px;
+    cursor: pointer;
+}
+
+.mashrek{
+    position: absolute;
+    top: 3000px;
+    left: 945px;
+    cursor: pointer;
+}
+
+.madfoatcom{
+    position: absolute;
+    top: 3003px;
+    left: 1145px;
+    cursor: pointer;
+}
+
+.landmark{
+    position: absolute;
+    top: 2992px;
+    left: 1320px;
+    cursor: pointer;
+}
+
+.orange{
+    position: absolute;
+    top: 3100px;
+    left: 135px;
+    cursor: pointer;
+}
+
+.jordankuwaitbank{
+    position: absolute;
+    top: 3105px;
+    left: 383px;
+    cursor: pointer;
+}
+
+.bibisko{
+    position: absolute;
+    top: 3105px;
+    left: 575px;
+    cursor: pointer;
+}
+
+.umniah{
+    position: absolute;
+    top: 3095px;
+    left: 730px;
+    cursor: pointer;
+}
+
+.standrd{
+    position: absolute;
+    top: 3105px;
+    left: 955px;
+    cursor: pointer;
+}
+
+.sts{
+    position: absolute;
+    top: 3105px;
+    left: 1150px;
+    cursor: pointer;
+}
+
+.sgbj{
+    position: absolute;
+    top: 3102px;
+    left: 1323px;
+    cursor: pointer;
+}
+
+.philadilphia{
+    position: absolute;
+    top: 3200px;
+    left: 140px;
+    cursor: pointer;
+}
+
+.omntrade{
+    position: absolute;
+    top: 3200px;
+    left: 383px;
+    cursor: pointer;
+}
+
+.offtec{
+    position: absolute;
+    top: 3203px;
+    left: 575px;
+    cursor: pointer;
+}
+
+.national{
+    position: absolute;
+    top: 3201px;
+    left: 755px;
+    cursor: pointer;
+}
+
+.zain{
+    position: absolute;
+    top: 3209px;
+    left: 960px;
+    cursor: pointer;
+}
+
+.alogo{
+    position: absolute;
+    top: 3205px;
+    left: 1150px;
+    cursor: pointer;
+}
+
+.islamicarabbank1{
+    position: absolute;
+    top: 3202px;
+    left: 1330px;
+    cursor: pointer;
+}
+
+#learnmore3{
+    position: absolute;
+    top: 3300px;
+    left: 735px;
+}
+
+#learnmore3{
+    border: none;
+    border-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+} 
+
+#learnmore3:hover{
+    background-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+}
+
+#arrow2{
+    color: rgb(155, 2, 2);
+    font-size: xx-large;
+}
+
+#arrowrightbutton{
+    position: absolute;
+    top: 3025px;
+    right: 10px;
+}
+
+#arrowrightbutton{
+    border: none;
+    border-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+} 
+
+#arrowrightbutton:hover{
+    background-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+} 
+
+#arrowrleftbutton{
+    position: absolute;
+    top: 3000px;
+    left: 10px;
+}
+
+#arrowrleftbutton{
+    border: none;
+    border-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+} 
+
+#arrowrleftbutton:hover{
+    background-color: transparent;
+    color: midnightblue;
+    font-size: medium;
+} 

@@ -1,0 +1,117 @@
+.outreachbackground{
+    position: absolute;
+    top: 1200px;
+}
+
+#OUTREACH{
+    position: absolute;
+    top: 1360px;
+    left: 580px;
+    font-size: xx-large;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+    background-color: transparent;
+}
+
+.trainingpic{
+    position: absolute;
+    top: 1480px;
+    left: 280px;
+}
+
+#training{
+    width: 250px;
+}
+
+#num1{
+    position: absolute;
+    top: 1735px;
+    left: 325px;
+    color: white;
+    background-color: transparent;
+}
+
+#pTraining{
+    position: absolute;
+    top: 1790px;
+    left: 345px;
+    color: white;
+    font-size: medium;
+}
+
+.youthpic{
+    position: absolute;
+    top: 1480px;
+    left: 678px;
+}
+
+#youth{
+    width: 250px;
+}
+
+#num2{
+    position: absolute;
+    top: 1735px;
+    left: 735px;
+    color: white;
+    background-color: transparent;
+}
+
+#pYouth{
+    position: absolute;
+    top: 1790px;
+    left: 725px;
+    color: white;
+    font-size: medium;
+}
+
+.volunteeringic{
+    position: absolute;
+    top: 1480px;
+    left: 1063px;
+}
+
+#volunteering{
+    width: 250px;
+}
+
+#num3{
+    position: absolute;
+    top: 1735px;
+    left: 1117px;
+    color: white;
+    background-color: transparent;
+}
+
+#pVolunteering{
+    position: absolute;
+    top: 1790px;
+    left: 1097px;
+    color: white;
+    font-size: medium;
+}
+
+#learnmore1{
+    position: absolute;
+    top: 1890px;
+    left: 1385px;
+}
+
+#learnmore1{
+    border: none;
+    border-color: transparent;
+    color: white;
+    font-size: medium;
+} 
+
+#learnmore1:hover{
+    background-color: transparent;
+    color: white;
+    font-size: medium;
+}
+
+#arrow{
+    color: rgb(155, 2, 2);
+    font-size: x-large;
+}

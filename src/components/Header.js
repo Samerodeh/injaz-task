@@ -1,6 +1,7 @@
 import React from 'react';
 import './Header.css'
-import { Col, Container, Row } from 'react-bootstrap';
+import './Main.css'
+import { Col, Row } from 'react-bootstrap';
 import Carousel from 'react-bootstrap/Carousel'
 import Image from 'react-bootstrap/Image'
 import Button from 'react-bootstrap/Button'
@@ -87,10 +88,15 @@ const Header = () => {
 
             <div id="headericons">
                 <FaFacebookF id="facebookh"/>
+                &nbsp;
                 <FaInstagram id="instagramh"/>
+                &nbsp;
                 <FaTwitter id="twitterh"/>
+                &nbsp;
                 <FaSnapchatGhost id="snapchath"/>
+                &nbsp;
                 <FaLinkedinIn id="linkedinh"/>
+                &nbsp;
                 <FaYoutube id="youtubeh"/>
             </div>
         </div>

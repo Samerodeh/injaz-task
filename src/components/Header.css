@@ -73,7 +73,7 @@ body{
 #headericons{
     position: absolute;
     top: 420px;
-    left: 720px;
+    left: 715px;
     text-decoration: none;
     /* text-align: center; */
     color: rgb(196, 196, 196);
@@ -81,26 +81,32 @@ body{
 
 #facebookh{
     cursor: pointer;
+    font-size: medium;
 }
 
 #instagramh{
     cursor: pointer;
+    font-size: medium;
 }
 
 #twitterh{
     cursor: pointer;
+    font-size: medium;
 }
 
 #snapchath{
     cursor: pointer;
+    font-size: medium;
 }
 
 #linkedinh{
     cursor: pointer;
+    font-size: medium;
 }
 
 #youtubeh{
     cursor: pointer;
+    font-size: medium;
 }
 
 .learning{
