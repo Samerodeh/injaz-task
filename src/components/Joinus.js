@@ -1,8 +1,7 @@
 import React from 'react';
 import './Joinus.css'
 import './Main.css'
-import { Col, Row } from 'react-bootstrap';
-import Image from 'react-bootstrap/Image'
+import Joinusbackground from '../assest/joinus.png'
 import Button from 'react-bootstrap/Button'
 import { BsPlusCircle } from 'react-icons/bs';
 
@@ -10,11 +9,7 @@ const Joinus = () => {
     return (
         <div>
             <div className="joinus">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="joinusbackground" src="http://127.0.0.1:5500/assets/joinus.png" rounded />
-                    </Col>
-                </Row>
+                <img id="joinusbackground" src={Joinusbackground} alt="" />
             </div>
 
             <h3 id="Volunteers">Volunteers</h3>

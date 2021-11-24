@@ -1,8 +1,9 @@
 import React from 'react';
 import './Misson.css'
 import './Main.css'
-import { Col, Row } from 'react-bootstrap';
-import Image from 'react-bootstrap/Image'
+import Missionlogo from '../assest/missionlogo.png'
+import Education from '../assest/injazeducation.png'
+import Startup from '../assest/mystartup.png'
 import Button from 'react-bootstrap/Button'
 import { RiArrowRightSFill } from 'react-icons/ri';
 
@@ -10,11 +11,7 @@ const Misson = () => {
     return (
         <div>
             <div className="logomission">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="missionlogo" src="https://samerodeh.github.io/injaz/assets/missionlogo.png" rounded />
-                    </Col>
-                </Row>
+                <img id="missionlogo" src={Missionlogo} alt="" />
             </div>
 
             <h2 id="ourmission"> Our Mission </h2>
@@ -27,11 +24,7 @@ const Misson = () => {
 
 
             <div className="educationpic">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="education" src="https://samerodeh.github.io/injaz/assets/injazeducation.png" rounded />
-                    </Col>
-                </Row>
+                <img id="education" src={Education} alt="" />
 
                 <Button id="redarrow" variant="outline-success">Explore <RiArrowRightSFill id="leftarerow" /></Button>
             </div>
@@ -39,11 +32,7 @@ const Misson = () => {
 
 
             <div className="startuppic">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="startup" src="https://samerodeh.github.io/injaz/assets/mystartup.png" rounded />
-                    </Col>
-                </Row>
+                <img id="startup" src={Startup} alt="" />
 
                 <Button id="yellowarrow" variant="outline-success">Explore <RiArrowRightSFill id="rightarrow" /></Button>
             </div>

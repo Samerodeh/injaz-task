@@ -1,8 +1,11 @@
 import React from 'react';
 import './Contactform.css'
 import './Main.css'
-import { Col, Row } from 'react-bootstrap';
-import Image from 'react-bootstrap/Image'
+import Formbackground from '../assest/formbackground.png'
+import Locationicon from '../assest/locationicon.png'
+import Telephoneicon from '../assest/telephoneicon.png'
+import Emailicon from '../assest/emailicon.png'
+import Boxicon from '../assest/boxicon.png'
 import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form'
 import { RiArrowRightSFill } from 'react-icons/ri';
@@ -11,54 +14,34 @@ const Contactform = () => {
     return (
         <div>
             <div className="formbackground">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="formbackgroundpic" src="http://127.0.0.1:5500/assets/formbackground.png" rounded />
-                    </Col>
-                </Row>
+                <img id="formbackgroundpic" src={Formbackground} alt="" />
             </div>
 
             <h1 id="CONTACT">CONTACT US</h1>
 
             <div className="locationicon">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="locationiconpic" src="http://127.0.0.1:5500/assets/locationicon.png" rounded />
-                    </Col>
-                </Row>
+                <img id="locationiconpic" src={Locationicon} alt="" />
             </div>
 
             <h3 id="address">ADDRESS:</h3>
             <p id="makkah">(20) Makkah Street, Salam Neighborhood</p>
 
             <div className="telephoneicon">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="telephoneiconpic" src="http://127.0.0.1:5500/assets/telephoneicon.png" rounded />
-                    </Col>
-                </Row>
+                <img id="telephoneiconpic" src={Telephoneicon} alt="" />
             </div>
 
             <h3 id="telephone">TELEPHONE:</h3>
             <p id="numbers">+962 6 565 7410 / +962 6 565 7409</p>
 
             <div className="emailicon">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="emailiconpic" src="http://127.0.0.1:5500/assets/emailicon.png" rounded />
-                    </Col>
-                </Row>
+                <img id="emailiconpic" src={Emailicon} alt="" />
             </div>
 
             <h3 id="email">EMAIL</h3>
             <p id="mail">email@injaz.org.jo</p>
 
             <div className="boxicon">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="boxiconpic" src="http://127.0.0.1:5500/assets/boxicon.png" rounded />
-                    </Col>
-                </Row>
+                <img id="boxiconpic" src={Boxicon} alt="" />
             </div>
 
             <h3 id="pobox">P.O. BOX:</h3>
@@ -87,7 +70,7 @@ const Contactform = () => {
                     </Form.Group>
 
                     <Button id="formbutton" variant="primary" type="submit">
-                    Send message <RiArrowRightSFill id="arrow5"/>
+                        Send message <RiArrowRightSFill id="arrow5" />
                     </Button>
                 </Form></div>
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import './Footer.css'
 import './Main.css'
-import { Col, Row } from 'react-bootstrap';
-import Image from 'react-bootstrap/Image'
+import Footerbackground from'../assest/footerbackground.png'
+import Footerlogo from'../assest/footerlogo.png'
 import Button from 'react-bootstrap/Button'
 import {
     FaFacebookF,
@@ -17,19 +17,11 @@ const Footer = () => {
     return (
         <div>
             <div className="footerbackground">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="pic" src="http://127.0.0.1:5500/assets/footerbackground.png" rounded />
-                    </Col>
-                </Row>
+                <img id="pic" src={Footerbackground} alt="" />
             </div>
 
             <div className="footerlogo">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="footerlogopic" src="http://127.0.0.1:5500/assets/2.png" rounded />
-                    </Col>
-                </Row>
+                <img id="footerlogopic" src={Footerlogo} alt="" />
             </div>
 
             <h4 id="aboutus">About Us</h4>

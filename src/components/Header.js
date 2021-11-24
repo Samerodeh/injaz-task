@@ -1,12 +1,13 @@
 import React from 'react';
 import './Header.css'
 import './Main.css'
-import { Col, Row } from 'react-bootstrap';
 import Carousel from 'react-bootstrap/Carousel'
-import Image from 'react-bootstrap/Image'
 import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form'
 import FormControl from 'react-bootstrap/FormControl'
+import Headerbackground from '../assest/headerbackground.png'
+import Headerlolgo from '../assest/headerlolgo.png'
+import Elearning from '../assest/elearning.png'
 import {
     FaFacebookF,
     FaInstagram,
@@ -18,43 +19,17 @@ import {
     FaSearch
 } from 'react-icons/fa';
 
-
-
-
-
 const Header = () => {
     return (
         <div>
             <Carousel>
                 <Carousel.Item>
-                    <img
-                        className="d-block w-100"
-                        src="https://github.com/Samerodeh/injaz/raw/main/assets/1.png"
-                        alt=""
-                    />
+                    <img src={Headerbackground} alt="" />
                 </Carousel.Item>
-                {/* <Carousel.Item>
-                    <img
-                        className="d-block w-100"
-                        src="https://github.com/Samerodeh/injaz/raw/main/assets/1.png"
-                        alt=""
-                    />
-                </Carousel.Item>
-                <Carousel.Item>
-                    <img
-                        className="d-block w-100"
-                        src="https://github.com/Samerodeh/injaz/raw/main/assets/1.png"
-                        alt=""
-                    />
-                </Carousel.Item> */}
             </Carousel>
 
             <div class="headerlogo">
-                <Row>
-                    <Col xs={6} md={4}>
-                        <Image id="headerlogo" src="https://samerodeh.github.io/injaz/assets/2.png" rounded />
-                    </Col>
-                </Row>
+                <img id="headerlogo" src={Headerlolgo} alt="" />
             </div>
 
             <p id="line">_______________________________</p>
@@ -73,11 +48,7 @@ const Header = () => {
             </Form>
 
             <div class="learning">
-                <Row >
-                    <Col xs={6} md={4}>
-                        <Image id="elearninglogo" src="https://samerodeh.github.io/injaz/assets/img4.png" rounded />
-                    </Col>
-                </Row>
+                <img id="elearninglogo" src={Elearning} alt="" />
             </div>
 
             <div class="dropbutton">
@@ -87,17 +58,17 @@ const Header = () => {
             </div>
 
             <div id="headericons">
-                <FaFacebookF id="facebookh"/>
+                <FaFacebookF id="facebookh" />
                 &nbsp;
-                <FaInstagram id="instagramh"/>
+                <FaInstagram id="instagramh" />
                 &nbsp;
-                <FaTwitter id="twitterh"/>
+                <FaTwitter id="twitterh" />
                 &nbsp;
-                <FaSnapchatGhost id="snapchath"/>
+                <FaSnapchatGhost id="snapchath" />
                 &nbsp;
-                <FaLinkedinIn id="linkedinh"/>
+                <FaLinkedinIn id="linkedinh" />
                 &nbsp;
-                <FaYoutube id="youtubeh"/>
+                <FaYoutube id="youtubeh" />
             </div>
         </div>
     );

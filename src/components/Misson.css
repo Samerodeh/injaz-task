@@ -1,6 +1,7 @@
 .logomission{
     position: absolute;
     left: 675px;
+    padding-top: 25px;
 }
 
 #missionlogo{
@@ -10,8 +11,8 @@
 
 #ourmission{
     position: absolute;
-    top: 870px;
-    left: 675px;
+    top: 930px;
+    left: 677px;
     font-size: xx-large;
     font-weight:normal;
     font-weight: 300;
@@ -20,7 +21,7 @@
 
 #to{
     position: absolute;
-    top: 915px;
+    top: 980px;
     left: 415px;
     color: midnightblue;
     font-size: larger;
@@ -29,16 +30,13 @@
 
 .educationpic{
     position: absolute;
-    top: 1000px;
+    top: 1050px;
     left: 450px;
 }
 
-/* .education{
-   
-} */
-
 #redarrow{
     position: absolute;
+    top: 85px;
     left: 85px;
     border: none;
     border-color: transparent;
@@ -59,12 +57,13 @@
 
 .startuppic{
     position: absolute;
-    top: 1022px;
+    top: 1067px;
     left: 800px;
 }
 
 #yellowarrow{
     position: absolute;
+    top: 66px;
     left: 55px;
     border: none;
     border-color: transparent;
